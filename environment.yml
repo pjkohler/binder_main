@@ -6,11 +6,11 @@ dependencies:
   - numpy
   - seaborn
   - scipy
-  - scikit-learn
+  - pandas
+  - matplotlib
+  - nbgitpuller
+  - pip
   - pip:
-    - nbgitpuller
-    - pandas
-    - matplotlib
     - nilearn
     - osfclient
     - "https://github.com/wichmann-lab/python-psignifit/zipball/master"
