@@ -1,11 +1,11 @@
 channels:
+  - defaults
   - conda-forge
 dependencies:
   - python
   - numpy
   - seaborn
   - scipy
-  - pip
   - pip:
     - nbgitpuller
     - pandas
