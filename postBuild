@@ -2,4 +2,4 @@ jupyter serverextension enable --py nbgitpuller --sys-prefix
 
 JUPYTER_CONFIG_DIR=$(jupyter --config-dir)
 mkdir $JUPYTER_CONFIG_DIR/custom
-cp rise.css $JUPYTER_CONFIG_DIR/custom/custom.css
+cp custom.css $JUPYTER_CONFIG_DIR/custom/custom.css
