@@ -6,6 +6,7 @@ dependencies:
   - numpy
   - seaborn
   - scipy
+  - scikit-learn
   - pip:
     - nbgitpuller
     - pandas
