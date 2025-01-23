@@ -13,4 +13,4 @@ dependencies:
   - pip:
     - nilearn
     - osfclient
-    - "https://github.com/wichmann-lab/python-psignifit/zipball/master"
+    - psignifit
